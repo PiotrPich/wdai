@@ -1,0 +1,60 @@
+div {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: burlywood;
+    
+    border: 2px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+#c1 {
+    background-color: aqua;
+   
+}
+#c2 {
+    background-image:url("/images/tiger.jpg");
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 100px;
+    overflow: scroll;
+    
+}
+#c3 {
+    background-color: azure;
+    width: 1300px;
+    height: 500px;
+    
+}
+#c4 {
+    background-color: beige;
+
+}
+table{
+    table-layout: fixed;
+    border: 2px solid white;
+    padding: auto;
+    margin: auto;
+    width: 80%;
+    height: 400px;
+    
+}
+th {
+    border: 1px solid white;
+    background-color: blue;
+    width: 300px;
+    height: 80px;
+}
+td {
+    border: 1px solid white;
+    width: auto;
+    height: auto;
+    
+    
+}
+.tr1 {
+    background-color:aqua;
+}
+.tr2 {
+    background-color: aliceblue;
+}
